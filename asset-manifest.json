@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kunalpatil0360/portfolio-.git/static/css/main.7516b923.css",
+    "main.js": "/kunalpatil0360/portfolio-.git/static/js/main.e56f34f3.js",
+    "static/media/Project3.png": "/kunalpatil0360/portfolio-.git/static/media/Project3.a7099ac0816c9c5c3cd1.png",
+    "static/media/Project1.png": "/kunalpatil0360/portfolio-.git/static/media/Project1.de5255c19066286f63d0.png",
+    "static/media/Hero2.png": "/kunalpatil0360/portfolio-.git/static/media/Hero2.9a11e4fd2b60d57eaa23.png",
+    "static/media/Project2.png": "/kunalpatil0360/portfolio-.git/static/media/Project2.3aa740ad693d2e4f3690.png",
+    "static/media/Hero.png": "/kunalpatil0360/portfolio-.git/static/media/Hero.f599820ac4fd11f82862.png",
+    "index.html": "/kunalpatil0360/portfolio-.git/index.html",
+    "main.7516b923.css.map": "/kunalpatil0360/portfolio-.git/static/css/main.7516b923.css.map",
+    "main.e56f34f3.js.map": "/kunalpatil0360/portfolio-.git/static/js/main.e56f34f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7516b923.css",
+    "static/js/main.e56f34f3.js"
+  ]
+}
